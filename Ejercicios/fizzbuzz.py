@@ -13,8 +13,6 @@ while True:
             elif numero % 5 == 0:
                 print("Buzz")
             break
-        else:
-            print("Número incorrecto. Por favor, ingresa un múltiplo de 3 o 5.")
     except ValueError:
         print("No has ingresado un número. Por favor, inténtalo de nuevo.")
 
