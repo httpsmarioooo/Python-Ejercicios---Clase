@@ -4,6 +4,12 @@
 # Por otro lado, cuando usas un nombre de variable como indice, puedes acceder al valor
 # de la iteración y saber exactamente a qué iteración pertenece cada dato.
 
+#! RESUMEN -----------------------------------------
+# En resumen, usar un nombre de variable te permite acceder al valor de la iteración y 
+# saber exactamente a qué iteración pertenece cada dato, mientras que usar _ no te da esa 
+# información.
+#! -------------------------------------------------
+
 #! Diccionario vacio
 personas = {}
 
