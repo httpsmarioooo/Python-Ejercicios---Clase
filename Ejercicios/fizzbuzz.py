@@ -19,7 +19,7 @@ while True:
         print("No has ingresado un número. Por favor, inténtalo de nuevo.")
 
 
-# Generar una secuencia de números del 1 al 100
+# Generar una secuencia de números del 1 al 21
 # for numero in range(1, 21):
 #     if numero % 3 == 0 and numero % 5 == 0:
 #         print("FizzBuzz")
