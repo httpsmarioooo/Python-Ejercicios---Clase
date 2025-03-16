@@ -1,5 +1,3 @@
-
-
 # Números esperados (múltiplos de 3 o 5)
 
 while True:
